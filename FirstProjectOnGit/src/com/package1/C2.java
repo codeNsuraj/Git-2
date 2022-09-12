@@ -6,6 +6,7 @@ public class C2 {
 		
 		System.out.println("Hello World 2");
 		
+		System.out.println("New Code");
 	}
 
 }
