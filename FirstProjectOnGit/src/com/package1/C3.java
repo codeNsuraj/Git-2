@@ -7,5 +7,4 @@ public class C3 {
 		System.out.println("Mamta Chidku");
 		
 	}
-
 }
